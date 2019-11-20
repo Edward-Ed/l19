@@ -4,6 +4,10 @@ import { createSlider } from './slider';
 
 // 19 занятие
 const a = 10;
+const b = 20;
+const c = a * b;
+console.log(c);
+
 
 const slider = createSlider()
 
